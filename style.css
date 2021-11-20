@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/803b6435-c912-4bd1-be8f-5ae39e106dbf/d30egxg-10015fae-f8d4-401c-8e14-04baae0fa788.png/v1/fill/w_900,h_507,q_80,strp/minecraft_background__grass__by_jabjabjab_d30egxg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvODAzYjY0MzUtYzkxMi00YmQxLWJlOGYtNWFlMzllMTA2ZGJmXC9kMzBlZ3hnLTEwMDE1ZmFlLWY4ZDQtNDAxYy04ZTE0LTA0YmFhZTBmYTc4OC5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WZX8jjedkTVVJOSZ3XdRlqEkPd1fnJ51auboX-uZElU");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
